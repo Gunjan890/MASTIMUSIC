@@ -3,7 +3,7 @@ from typing import List
 
 import yaml
 
-LOGGERS = "Branded_king__robot"
+LOGGERS = "masti_music_bot"
 
 languages = {}
 languages_present = {}
